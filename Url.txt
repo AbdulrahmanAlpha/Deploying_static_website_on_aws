@@ -1,0 +1,9 @@
+Cloudfront url 
+d3lqgtn1u4hr9r.cloudfront.net
+endpoint url
+http://my-367967028633-bucket.s3-website-us-east-1.amazonaws.com/
+
+// hello i hope you like my first aws_project .
+// my project is working with no errors at all .
+// I follow the steps in calss room typically .
+// Thanks for you all, I'm glad to join your community .
